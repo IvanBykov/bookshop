@@ -1,7 +1,7 @@
 from django.db import models
 
 
-# Create your models here.
+# Create your models here.1
 
 class Book(models.Model):
     title = models.CharField(max_length=70)
